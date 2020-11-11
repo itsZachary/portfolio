@@ -1,0 +1,19 @@
+
+
+* {
+    font-size: 100%;
+    viewport-fit: 100%;
+}
+
+.title {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.45rem;
+}
+
+#feedbackTitle {
+    font-size: 1.6rem;
+}
+
